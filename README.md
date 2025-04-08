@@ -21,7 +21,9 @@ Potência (W) = Φ_por_luminária / Eficácia
 ├── main.py # Arquivo principal, orquestra tudo
 
 ├── calculos.py # Funções de cálculo do fluxo e potência
+
 ├── entrada.py # Entrada de dados com valores padrão
+
 ├── README.md # Explica o funcionamento do código.
 
 ---
