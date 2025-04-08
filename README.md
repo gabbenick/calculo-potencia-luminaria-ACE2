@@ -71,6 +71,6 @@ Feito com ❤️ por [gabus]
 
 ---
 
-## 🪄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar!
