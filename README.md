@@ -66,7 +66,7 @@ Você pode digitar o valor desejado ou apenas apertar `Enter` para usar o padrã
 
 ## 🧑‍💻 Autor
 
-Feito com ❤️ por [gabus]  
+Feito com ❤️ por gabus
 📧 Entre em contato: `joao.gabriel@ceca.ufal.br`
 
 ---
